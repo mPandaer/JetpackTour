@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/databindingdemo" />
             <option value="$PROJECT_DIR$/lifecycledemo" />
             <option value="$PROJECT_DIR$/roomdemo" />
             <option value="$PROJECT_DIR$/viewmodeldemo" />

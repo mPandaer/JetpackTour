@@ -16,3 +16,4 @@ rootProject.name = "MyJetpackTour"
 include ':viewmodeldemo'
 include ':lifecycledemo'
 include ':roomdemo'
+include ':databindingdemo'
